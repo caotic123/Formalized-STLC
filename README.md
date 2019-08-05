@@ -11,6 +11,6 @@ T |- x : σ            T |- c:T'                               T |- (λx:σ. e):
 # Sources
 I am using Type Systems for Programming Languages (Pierce) and Certified Programming with Dependent Types for dependent typed proofs.
 
-#Problems?
+# Problems?
 Feels free to contact me through camposferreiratiago@gmail.com
 ... or any plataform you find me out
